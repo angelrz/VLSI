@@ -40,5 +40,4 @@ simulation/
 quartus_sh_compile.log
 *.qar
 *.qip
-*.qpf
 *.qsf
