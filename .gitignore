@@ -38,6 +38,7 @@ simulation/
 
 # Archivos de settings y de dependencias
 quartus_sh_compile.log
+*.qpf
 *.qar
 *.qip
 *.qsf
